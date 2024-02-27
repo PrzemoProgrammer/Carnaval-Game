@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "lato";
+    src: url("../fonts/lato.ttf") format("truetype");
+  }
+
+    @font-face {
+    font-family: "bangers";
+    src: url("../fonts/bangers.ttf") format("truetype");
+  }
+    @font-face {
+    font-family: "ewert";
+    src: url("../fonts/ewert.ttf") format("truetype");
+  }
+  * {
+    font-family: "ewert"
+  }
+
+
+  body {
+    margin: 0;
+    padding: 0;
+  }

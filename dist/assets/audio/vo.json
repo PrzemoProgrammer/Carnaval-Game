@@ -1,0 +1,398 @@
+{
+	"resources": [
+		"output/an2/carnivaldarts/vo/vo.ogg",
+		"output/an2/carnivaldarts/vo/vo.m4a"
+	],
+	"spritemap": {
+		"all_prizes_won": {
+			"start": 0,
+			"end": 5.274444444444445,
+			"loop": false
+		},
+		"correct_01": {
+			"start": 7,
+			"end": 11.087891156462586,
+			"loop": false
+		},
+		"correct_02": {
+			"start": 13,
+			"end": 17.767120181405897,
+			"loop": false
+		},
+		"correct_03": {
+			"start": 19,
+			"end": 23.134013605442178,
+			"loop": false
+		},
+		"correct_04": {
+			"start": 25,
+			"end": 29.687437641723356,
+			"loop": false
+		},
+		"correct_05": {
+			"start": 31,
+			"end": 32.78192743764173,
+			"loop": false
+		},
+		"correct_06": {
+			"start": 34,
+			"end": 35.75675736961451,
+			"loop": false
+		},
+		"correct_07": {
+			"start": 37,
+			"end": 41.28612244897959,
+			"loop": false
+		},
+		"correct_08": {
+			"start": 43,
+			"end": 47.335260770975054,
+			"loop": false
+		},
+		"correct_09": {
+			"start": 49,
+			"end": 55.51968253968254,
+			"loop": false
+		},
+		"correct_10": {
+			"start": 57,
+			"end": 60.54283446712018,
+			"loop": false
+		},
+		"correct_11": {
+			"start": 62,
+			"end": 66.38560090702948,
+			"loop": false
+		},
+		"correct_12": {
+			"start": 68,
+			"end": 73.1318820861678,
+			"loop": false
+		},
+		"correct_13": {
+			"start": 75,
+			"end": 78.00616780045351,
+			"loop": false
+		},
+		"correct_14": {
+			"start": 80,
+			"end": 87.18632653061225,
+			"loop": false
+		},
+		"correct_15": {
+			"start": 89,
+			"end": 92.71471655328799,
+			"loop": false
+		},
+		"correct_16": {
+			"start": 94,
+			"end": 97.73990929705215,
+			"loop": false
+		},
+		"correct_17": {
+			"start": 99,
+			"end": 103.98095238095237,
+			"loop": false
+		},
+		"correct_18": {
+			"start": 105,
+			"end": 108.85727891156462,
+			"loop": false
+		},
+		"correct_19": {
+			"start": 110,
+			"end": 115.12349206349207,
+			"loop": false
+		},
+		"correct_20": {
+			"start": 117,
+			"end": 119.8804081632653,
+			"loop": false
+		},
+		"dart_miss": {
+			"start": 121,
+			"end": 123.00725623582767,
+			"loop": false
+		},
+		"hit_10": {
+			"start": 125,
+			"end": 127.6749433106576,
+			"loop": false
+		},
+		"hit_20": {
+			"start": 129,
+			"end": 131.53240362811792,
+			"loop": false
+		},
+		"hit_30": {
+			"start": 133,
+			"end": 135.70009070294785,
+			"loop": false
+		},
+		"incorrect_01": {
+			"start": 137,
+			"end": 142.02707482993196,
+			"loop": false
+		},
+		"incorrect_02": {
+			"start": 144,
+			"end": 148.40655328798186,
+			"loop": false
+		},
+		"incorrect_03_a": {
+			"start": 150,
+			"end": 153.6895918367347,
+			"loop": false
+		},
+		"incorrect_03_b": {
+			"start": 155,
+			"end": 158.09997732426305,
+			"loop": false
+		},
+		"incorrect_04": {
+			"start": 160,
+			"end": 164.46521541950113,
+			"loop": false
+		},
+		"incorrect_05": {
+			"start": 166,
+			"end": 167.9118820861678,
+			"loop": false
+		},
+		"incorrect_06": {
+			"start": 169,
+			"end": 170.89512471655328,
+			"loop": false
+		},
+		"incorrect_07": {
+			"start": 172,
+			"end": 173.86156462585035,
+			"loop": false
+		},
+		"incorrect_08": {
+			"start": 175,
+			"end": 179.1759410430839,
+			"loop": false
+		},
+		"incorrect_09": {
+			"start": 181,
+			"end": 186.83625850340135,
+			"loop": false
+		},
+		"incorrect_10": {
+			"start": 188,
+			"end": 191.68539682539682,
+			"loop": false
+		},
+		"incorrect_11": {
+			"start": 193,
+			"end": 197.17176870748298,
+			"loop": false
+		},
+		"incorrect_12": {
+			"start": 199,
+			"end": 202.39609977324264,
+			"loop": false
+		},
+		"incorrect_13": {
+			"start": 204,
+			"end": 206.6456009070295,
+			"loop": false
+		},
+		"incorrect_14_a": {
+			"start": 208,
+			"end": 211.6434693877551,
+			"loop": false
+		},
+		"incorrect_14_c": {
+			"start": 213,
+			"end": 216.75666666666666,
+			"loop": false
+		},
+		"incorrect_15_a": {
+			"start": 218,
+			"end": 223.20734693877552,
+			"loop": false
+		},
+		"incorrect_15_b": {
+			"start": 225,
+			"end": 228.72312925170067,
+			"loop": false
+		},
+		"incorrect_16_a": {
+			"start": 230,
+			"end": 233.62251700680272,
+			"loop": false
+		},
+		"incorrect_16_c": {
+			"start": 235,
+			"end": 238.6895918367347,
+			"loop": false
+		},
+		"incorrect_17": {
+			"start": 240,
+			"end": 245.79433106575965,
+			"loop": false
+		},
+		"incorrect_18": {
+			"start": 247,
+			"end": 251.69585034013605,
+			"loop": false
+		},
+		"incorrect_19": {
+			"start": 253,
+			"end": 259.79639455782313,
+			"loop": false
+		},
+		"incorrect_20": {
+			"start": 261,
+			"end": 263.92231292517005,
+			"loop": false
+		},
+		"intro": {
+			"start": 265,
+			"end": 279.82795918367344,
+			"loop": false
+		},
+		"large_prize": {
+			"start": 281,
+			"end": 285.4946031746032,
+			"loop": false
+		},
+		"medium_prize": {
+			"start": 287,
+			"end": 291.20950113378683,
+			"loop": false
+		},
+		"next_turn": {
+			"start": 293,
+			"end": 293.87,
+			"loop": false
+		},
+		"one_prize_won": {
+			"start": 295,
+			"end": 300.58469387755105,
+			"loop": false
+		},
+		"question_1": {
+			"start": 302,
+			"end": 306.46521541950113,
+			"loop": false
+		},
+		"question_2": {
+			"start": 308,
+			"end": 312.13403628117914,
+			"loop": false
+		},
+		"question_3": {
+			"start": 314,
+			"end": 321.10247165532877,
+			"loop": false
+		},
+		"question_4": {
+			"start": 323,
+			"end": 329.9263718820862,
+			"loop": false
+		},
+		"question_5": {
+			"start": 331,
+			"end": 339.00804988662134,
+			"loop": false
+		},
+		"question_6": {
+			"start": 341,
+			"end": 347.64544217687074,
+			"loop": false
+		},
+		"question_7": {
+			"start": 349,
+			"end": 357.5195918367347,
+			"loop": false
+		},
+		"question_8": {
+			"start": 359,
+			"end": 365.14650793650793,
+			"loop": false
+		},
+		"question_9": {
+			"start": 367,
+			"end": 371.8803174603175,
+			"loop": false
+		},
+		"question_10": {
+			"start": 373,
+			"end": 377.06274376417235,
+			"loop": false
+		},
+		"question_11": {
+			"start": 379,
+			"end": 383.24303854875285,
+			"loop": false
+		},
+		"question_12": {
+			"start": 385,
+			"end": 388.5428344671202,
+			"loop": false
+		},
+		"question_13": {
+			"start": 390,
+			"end": 394.205306122449,
+			"loop": false
+		},
+		"question_14": {
+			"start": 396,
+			"end": 406.251179138322,
+			"loop": false
+		},
+		"question_15": {
+			"start": 408,
+			"end": 421.7856462585034,
+			"loop": false
+		},
+		"question_16": {
+			"start": 423,
+			"end": 430.07727891156463,
+			"loop": false
+		},
+		"question_17": {
+			"start": 432,
+			"end": 439.8823129251701,
+			"loop": false
+		},
+		"question_18": {
+			"start": 441,
+			"end": 444.71476190476193,
+			"loop": false
+		},
+		"question_19": {
+			"start": 446,
+			"end": 452.45675736961454,
+			"loop": false
+		},
+		"question_20": {
+			"start": 454,
+			"end": 456.9055782312925,
+			"loop": false
+		},
+		"small_prize": {
+			"start": 458,
+			"end": 462.1675736961451,
+			"loop": false
+		},
+		"start_turn": {
+			"start": 464,
+			"end": 466.3185487528345,
+			"loop": false
+		},
+		"two_prizes_won": {
+			"start": 468,
+			"end": 473.5679365079365,
+			"loop": false
+		},
+		"zero_prizes_won": {
+			"start": 475,
+			"end": 478.1315419501134,
+			"loop": false
+		}
+	}
+}
